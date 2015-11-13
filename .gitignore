@@ -1,0 +1,11 @@
+*.*~
+*.o
+*.dict
+cnn
+relamap/
+logs*
+models*
+*.result
+main-dclm
+baseline
+dam
