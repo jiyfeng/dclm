@@ -8,7 +8,7 @@ You need the [Boost C++ libraries]() (>=1.56) to save/load word vocabulary and t
 
 ## Building ##
 
-1. First you need to fetch the [cnn library](https://github.com/clab/cnn) into the main directory, then follow the instruction to get additional libraries and compile cnn.
+1. First you need to fetch the [cnn library](https://github.com/clab/cnn) into the same folder, then follow the instruction to get additional libraries and compile cnn.
 
 2. To compile all DCLMs, run
 
